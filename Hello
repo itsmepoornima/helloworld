@@ -1,0 +1,2 @@
+#Displaying hello world on the screen
+print("HELLO WORLD")
